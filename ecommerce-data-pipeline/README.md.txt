@@ -1,0 +1,31 @@
+# E-commerce Data Pipeline
+
+## Overview
+Processed large-scale e-commerce event data using Python and MySQL.
+
+## Dataset
+- October and November CSV files
+
+## Tech Stack
+- Python (pandas)
+- MySQL
+
+## Pipeline
+- Extract: CSV
+- Transform: Cleaned data
+- Load: Inserted using batch processing
+
+## Data Size
+~170 million records
+
+## Queries
+- Event distribution
+- Revenue analysis
+- Product insights
+
+## Challenges
+- Handling large dataset
+- Slow queries
+
+## Conclusion
+Built scalable pipeline for large data processing
